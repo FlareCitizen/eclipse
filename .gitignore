@@ -2,3 +2,5 @@
 Boston/.classpath
 Boston/.project
 Boston/.settings/org.eclipse.jdt.core.prefs
+*.class
+.recommenders
