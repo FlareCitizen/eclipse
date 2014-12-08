@@ -12,6 +12,10 @@ public class Apples {
 		++tuna;
 		
 		System.out.println(tuna);
+		
+		tuna += 8;
+		
+		System.out.println(tuna);
 
 	}
 
