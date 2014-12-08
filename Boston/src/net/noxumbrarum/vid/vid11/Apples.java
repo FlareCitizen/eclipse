@@ -9,7 +9,7 @@ public class Apples {
 		boy = 18;
 		girl = 20;
 		
-		if(boy >= 16 || girl <= 20){
+		if(boy >= 16 || girl <= 20){ // alt + 7
 			System.out.println("You can enter!");
 		}else{
 			System.out.println("You cannot enter!");
