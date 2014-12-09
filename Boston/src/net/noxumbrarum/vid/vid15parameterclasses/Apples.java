@@ -9,11 +9,10 @@ public class Apples {
 		tuna tunaObj = new tuna();
 		String name;
 		
-		System.out.print("Enter your name here: ");
+		System.out.println("Enter your name here: ");
 		name = input.nextLine();
 		
 		tunaObj.simpleMsg(name);
-		System.out.println("!");
 	}
 
 }
